@@ -1,5 +1,5 @@
 /**
- * @license Emily <VERSION> http://flams.github.com/emily
+ * @license Emily 1.7.0 http://flams.github.com/emily
  *
  * The MIT License (MIT)
  *
